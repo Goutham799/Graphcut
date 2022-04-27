@@ -4,4 +4,3 @@ To run this program,
 3) Run the program by just using this command;
 		python3 graphcut.py
 		
-Enjoy the Work
